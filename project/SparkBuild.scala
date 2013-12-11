@@ -207,7 +207,8 @@ object SparkBuild extends Build {
     name := "spark-core",
     resolvers ++= Seq(
       "JBoss Repository" at "http://repository.jboss.org/nexus/content/repositories/releases/",
-      "Cloudera Repository" at "https://repository.cloudera.com/artifactory/cloudera-repos/"
+      "Cloudera Repository" at "https://repository.cloudera.com/artifactory/cloudera-repos/",
+      "Hortonworks Repository" at "http://repo.hortonworks.com/content/repositories/releases/"
     ),
 
     libraryDependencies ++= Seq(

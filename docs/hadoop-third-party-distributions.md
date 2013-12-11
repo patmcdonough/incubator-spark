@@ -40,7 +40,7 @@ the _exact_ Hadoop version you are running to avoid any compatibility errors.
         <tr><td>HDP 1.2</td><td>1.1.2</td></tr>
         <tr><td>HDP 1.1</td><td>1.0.3</td></tr>
         <tr><td>HDP 1.0</td><td>1.0.3</td></tr>
-        <tr><td>HDP 2.0</td><td>2.2.0</td></tr>
+        <tr><td>HDP 2.0</td><td>2.2.0.2.0.6.0-76</td></tr>
       </table>
     </td>
   </tr>
